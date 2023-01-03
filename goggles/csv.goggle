@@ -1,0 +1,6 @@
+! name: Show Files
+! description: Only show results that are a file
+! public: false
+! author: bbellini
+
+*.csv|
